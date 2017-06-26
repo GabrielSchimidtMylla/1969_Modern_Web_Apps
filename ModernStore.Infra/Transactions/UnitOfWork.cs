@@ -23,7 +23,7 @@ namespace ModernStore.Infra.Transactions
 
         public void Rollback()
         {
-            //Do nothing :)
+            //Do nothing :).
         }
     }
 }
