@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Shared\bin\Debug\ModernStore.Shared.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Shared\bin\Debug\ModernStore.Shared.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Shared\bin\Debug\FluentValidator.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Shared\bin\Debug\ModernStore.Shared.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Shared\bin\Debug\ModernStore.Shared.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Shared\bin\Debug\FluentValidator.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Shared\obj\Debug\ModernStore.Shared.csprojResolveAssemblyReference.cache
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Shared\obj\Debug\ModernStore.Shared.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Shared\obj\Debug\ModernStore.Shared.pdb

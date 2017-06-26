@@ -1,0 +1,36 @@
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Infra.dll.config
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Infra.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Infra.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\FluentValidator.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Domain.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Shared.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Domain.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Shared.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Migrations.v1.resources
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Migrations.v2.resources
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\ModernStore.Infra.dll.config
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\ModernStore.Infra.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\ModernStore.Infra.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\EntityFramework.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\FluentValidator.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\ModernStore.Domain.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\ModernStore.Shared.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\ModernStore.Domain.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\ModernStore.Shared.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\EntityFramework.xml
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.csprojResolveAssemblyReference.cache
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.Migrations.v1.resources
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.Migrations.v2.resources
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.csproj.GenerateResource.Cache
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.pdb

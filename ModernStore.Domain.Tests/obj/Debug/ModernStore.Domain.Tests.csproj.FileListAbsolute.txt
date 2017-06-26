@@ -1,0 +1,34 @@
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\ModernStore.Domain.Tests.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\ModernStore.Domain.Tests.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\FluentValidator.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\ModernStore.Domain.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\ModernStore.Shared.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\ModernStore.Domain.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\ModernStore.Shared.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\obj\Debug\ModernStore.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\obj\Debug\ModernStore.Domain.Tests.dll
+C:\Users\Gabriel\Documents\Visual Studio 2017\Projects\ModernStore\ModernStore.Domain.Tests\obj\Debug\ModernStore.Domain.Tests.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\ModernStore.Domain.Tests.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\ModernStore.Domain.Tests.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\FluentValidator.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\ModernStore.Domain.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\ModernStore.Shared.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\ModernStore.Domain.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\ModernStore.Shared.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\obj\Debug\ModernStore.Domain.Tests.csprojResolveAssemblyReference.cache
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\obj\Debug\ModernStore.Domain.Tests.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Domain.Tests\obj\Debug\ModernStore.Domain.Tests.pdb
