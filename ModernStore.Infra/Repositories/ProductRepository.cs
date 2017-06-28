@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using ModernStore.Domain.Entities;
 using ModernStore.Domain.Repositories;
@@ -15,11 +16,18 @@ namespace ModernStore.Infra.Repositories
             _context = context;
         }
 
-        public Product Get(Guid Id)
+        public Product Get(Guid id)
         {
             return _context.Product
                 .AsNoTracking()
-                .FirstOrDefault(p => p.Id == Id);
+                .FirstOrDefault(p => p.Id == id);
+        }
+
+        public IEnumerable<Product> Get()
+        {
+            return _context.Product
+                .AsNoTracking()
+                .AsEnumerable();
         }
     }
 }

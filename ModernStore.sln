@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernStore.Domain.Tests", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernStore.Infra", "ModernStore.Infra\ModernStore.Infra.csproj", "{D4689BB5-FF7F-4CE7-98E9-CE0BDD420133}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelStore.Api", "ModelStore.Api\ModelStore.Api.csproj", "{7E8E7F26-BF05-423A-BDCA-43422F34FF29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D4689BB5-FF7F-4CE7-98E9-CE0BDD420133}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4689BB5-FF7F-4CE7-98E9-CE0BDD420133}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4689BB5-FF7F-4CE7-98E9-CE0BDD420133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8E7F26-BF05-423A-BDCA-43422F34FF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8E7F26-BF05-423A-BDCA-43422F34FF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8E7F26-BF05-423A-BDCA-43422F34FF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8E7F26-BF05-423A-BDCA-43422F34FF29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

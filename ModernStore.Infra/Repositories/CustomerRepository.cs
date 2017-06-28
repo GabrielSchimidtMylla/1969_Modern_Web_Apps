@@ -4,6 +4,10 @@ using ModernStore.Domain.Entities;
 using ModernStore.Domain.Repositories;
 using ModernStore.Infra.Contexts;
 using  System.Data.Entity;
+using ModernStore.Domain.CommandResults;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using Dapper;
 
 namespace ModernStore.Infra.Repositories
 {
@@ -21,6 +25,20 @@ namespace ModernStore.Infra.Repositories
             return _context.Customer
                 .Include(p => p.User)
                 .FirstOrDefault(p => p.Id == id);
+        }
+
+        public GetCustomerCommandResult Get(string username)
+        {
+            using (var conn = new SqlConnection(@"Data Source=.\sqlexpress;Initial Catalog=ModernStore;Integrated Security=True"))
+            {
+                conn.Open();
+                return conn.QueryFirstOrDefault(
+                    "SELECT * FROM GetCustomerInfoView WHERE Active = 1 and Username = @username",
+                    new
+                    {
+                        username = username
+                    });
+            }
         }
 
         public bool DocumentExists(string document)

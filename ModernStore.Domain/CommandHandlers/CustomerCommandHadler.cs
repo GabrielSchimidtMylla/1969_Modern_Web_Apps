@@ -37,8 +37,10 @@ namespace ModernStore.Domain.CommandHandlers
             AddNotifications(name.Notifications);
             AddNotifications(user.Notifications);
 
-            if (IsValid())
-                _customerRepository.Save(customer);
+            if (!IsValid())
+                return null;
+
+            _customerRepository.Save(customer);
 
             //Envia e-mail
             _emailService.Send(customer.Name.ToString(), customer.Email, "Bem-vindo", "Boas vindas ao meu sistema");

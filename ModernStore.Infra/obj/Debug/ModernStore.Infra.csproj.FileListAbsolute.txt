@@ -34,3 +34,5 @@ D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.M
 D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.csproj.GenerateResource.Cache
 D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.dll
 D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\obj\Debug\ModernStore.Infra.pdb
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\Dapper.dll
+D:\Projetos\1969_Modern_Web_Apps\ModernStore.Infra\bin\Debug\Dapper.xml

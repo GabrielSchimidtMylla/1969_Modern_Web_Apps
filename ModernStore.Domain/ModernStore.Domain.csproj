@@ -40,6 +40,7 @@
   <ItemGroup>
     <Compile Include="CommandHandlers\CustomerCommandHadler.cs" />
     <Compile Include="CommandHandlers\OrderCommandHandler.cs" />
+    <Compile Include="CommandResults\GetCustomerCommandResult.cs" />
     <Compile Include="CommandResults\RegisterCustomerCommandResult.cs" />
     <Compile Include="CommandResults\RegisterOrderCommandResult.cs" />
     <Compile Include="Commands\RegisterCustomerCommand.cs" />
