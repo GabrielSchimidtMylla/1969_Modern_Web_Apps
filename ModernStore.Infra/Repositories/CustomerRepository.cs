@@ -8,6 +8,7 @@ using ModernStore.Domain.CommandResults;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using Dapper;
+using ModernStore.Shared;
 
 namespace ModernStore.Infra.Repositories
 {
@@ -37,7 +38,7 @@ namespace ModernStore.Infra.Repositories
 
         public GetCustomerCommandResult Get(string username)
         {
-            using (var conn = new SqlConnection(@"Data Source=.\sqlexpress;Initial Catalog=ModernStore;Integrated Security=True"))
+            using (var conn = new SqlConnection(Runtime.ConnectionString))
             {
                 conn.Open();
                 return conn.QueryFirstOrDefault(

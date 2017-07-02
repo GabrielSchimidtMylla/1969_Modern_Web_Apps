@@ -2,15 +2,14 @@
 using System.Data.Entity.ModelConfiguration.Conventions;
 using ModernStore.Domain.Entities;
 using ModernStore.Infra.Mapping;
+using ModernStore.Shared;
 
 namespace ModernStore.Infra.Contexts
 {
     public class ModernStoreDataContext : DbContext
     {
-        private const string ModernStoreConnectionString = @"Data Source=.\sqlexpress;Initial Catalog=ModernStore;Integrated Security=True";
-
         public ModernStoreDataContext()
-            : base(ModernStoreConnectionString)
+            : base(Runtime.ConnectionString)
         {
             Configuration.LazyLoadingEnabled = false;
             Configuration.ProxyCreationEnabled = false;
