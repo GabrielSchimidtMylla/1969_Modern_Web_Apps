@@ -30,5 +30,14 @@ namespace ModernStore.Domain.Entities
         public void Activate() => Active = true;
 
         public void Deactivate() => Active = false;
+
+        public bool Authenticate(string username, string password)
+        {
+            if (UserName == username && Password == password)
+                return true;
+
+            AddNotification("User","Usuário ou Senha inválidos.");
+            return false;
+        }
     }
 }

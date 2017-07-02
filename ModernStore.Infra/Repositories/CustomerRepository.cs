@@ -27,6 +27,14 @@ namespace ModernStore.Infra.Repositories
                 .FirstOrDefault(p => p.Id == id);
         }
 
+        public Customer GetByUserName(string username)
+        {
+            return _context.Customer
+                .Include(p => p.User)
+                .AsNoTracking()
+                .FirstOrDefault(p => p.User.UserName == username);
+        }
+
         public GetCustomerCommandResult Get(string username)
         {
             using (var conn = new SqlConnection(@"Data Source=.\sqlexpress;Initial Catalog=ModernStore;Integrated Security=True"))

@@ -168,3 +168,10 @@ D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\Modern
 D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\ModernStore.Shared.pdb
 D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\Dapper.xml
 D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\EntityFramework.SqlServer.dll
+D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\Microsoft.AspNetCore.Authentication.dll
+D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\Microsoft.IdentityModel.Logging.dll
+D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos\1969_Modern_Web_Apps\ModelStore.Api\bin\Debug\net462\win7-x86\System.IdentityModel.Tokens.Jwt.dll

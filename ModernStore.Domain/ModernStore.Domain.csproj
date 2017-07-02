@@ -43,6 +43,7 @@
     <Compile Include="CommandResults\GetCustomerCommandResult.cs" />
     <Compile Include="CommandResults\RegisterCustomerCommandResult.cs" />
     <Compile Include="CommandResults\RegisterOrderCommandResult.cs" />
+    <Compile Include="Commands\AuthenticateUserCommand.cs" />
     <Compile Include="Commands\RegisterCustomerCommand.cs" />
     <Compile Include="Commands\RegisterOrderCommand.cs" />
     <Compile Include="Commands\RegisterOrderItemCommand.cs" />

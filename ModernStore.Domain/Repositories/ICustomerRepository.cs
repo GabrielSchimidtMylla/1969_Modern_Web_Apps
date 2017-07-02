@@ -9,6 +9,8 @@ namespace ModernStore.Domain.Repositories
     {
         Customer Get(Guid id);
 
+        Customer GetByUserName(string username);
+
         GetCustomerCommandResult Get(string username);
 
         bool DocumentExists(string document);
