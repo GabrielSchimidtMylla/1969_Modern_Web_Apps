@@ -1,4 +1,5 @@
 ﻿using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ModernStore.Domain.CommandHandlers;
 using ModernStore.Domain.Commands;
@@ -20,6 +21,7 @@ namespace ModelStore.Api.Controllers
         }
 
         [HttpPost]
+        [AllowAnonymous]
         [Route("v1/customers")]
         public async Task<IActionResult> Post([FromBody] RegisterCustomerCommand command)
         {
